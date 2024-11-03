@@ -8,7 +8,7 @@ body {
 }
 
 .nav {
-  display: block;
+  display: flex;
   margin: auto;
 }
 
